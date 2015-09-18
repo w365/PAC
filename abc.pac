@@ -3,7 +3,7 @@
 var proxy = "PROXY server01.pac.itzmx.com:25;";
 
 var domains = {
-  "www.ntdtv.com": 1,
+  "ntdtv.com": 1,
   "lvv2.com": 1,
   "raw.githubusercontent.com": 1,
   "iobit.com": 1,
