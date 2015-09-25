@@ -3,6 +3,8 @@
 var proxy = "PROXY server01.pac.itzmx.com:25;";
 
 var domains = {
+  "whatapp.com": 1,
+  "thelaunchbook.com": 1,
   "freefq.com": 1,
   "faluninfo.net": 1,
   "falundafaradio.org": 1,
