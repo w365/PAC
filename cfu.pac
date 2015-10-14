@@ -3,6 +3,7 @@
 var proxy = "PROXY server01.pac.itzmx.com:25;";
 
 var domains = {
+  "dotheone.com": 1,
   "android-x86.org": 1,
   "web.whatapp.com": 1,
   "thelaunchbook.com": 1,
