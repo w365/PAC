@@ -3,6 +3,7 @@
 var proxy = "PROXY server01.pac.itzmx.com:25;";
 
 var domains = {
+  "singlelogin.org": 1,
   "bookos-z1.org": 1,
   "dotheone.com": 1,
   "android-x86.org": 1,
