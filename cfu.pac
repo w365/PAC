@@ -1,5 +1,3 @@
-// https://pac.itzmx.com
-
 var proxy = "PROXY 94.23.7.145:25";
 
 var domains = {
