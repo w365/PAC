@@ -1,6 +1,6 @@
 // https://pac.itzmx.com
 
-var proxy = "PROXY 107.167.12.163:25";
+var proxy = "PROXY server01.pac.itzmx.com:25";
 
 var domains = {
   "finnciti.com": 1,
