@@ -1,6 +1,9 @@
-var proxy = "PROXY 94.23.7.145:25";
+// https://pac.itzmx.com
+
+var proxy = "PROXY server01.pac.itzmx.com:25";
 
 var domains = {
+  "tommy.com": 1,
   "finnciti.com": 1,
   "singlelogin.org": 1,
   "bookos-z1.org": 1,
