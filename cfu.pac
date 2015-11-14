@@ -3,7 +3,7 @@
 var proxy = "PROXY server01.pac.itzmx.com:25";
 
 var domains = {
-  "tommy.com": 1,
+  "usa.tommy.com": 1,
   "finnciti.com": 1,
   "singlelogin.org": 1,
   "bookos-z1.org": 1,
