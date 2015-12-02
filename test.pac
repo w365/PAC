@@ -1,4 +1,4 @@
-var proxy = "PROXY 198.71.82.124:25";
+var proxy = "PROXY server01.pac.itzmx.com:25";
 
 var domains = {
   "finnciti.com": 1,
